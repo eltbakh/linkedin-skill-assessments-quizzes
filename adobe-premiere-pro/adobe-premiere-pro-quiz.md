@@ -268,7 +268,7 @@ E. M4A
 
 - [ ] Premiere will insert white to fill the needed handles.
 - [ ] Premiere will insert black to fill the needed handles.
-- [ ] There is not enough media (handles) to cover the duration of the transition.
+- [x] There is not enough media (handles) to cover the duration of the transition.
 - [ ] The transition is automatically shortened to use only the available media and the area under the diagonal lines will have no transitions applied.
 
 #### Q34. Your project has several sequences that are no longer needed. How would you use the Project Manager to produce a new version of the project that excludes the unwanted sequences?
@@ -304,7 +304,7 @@ D. Circle
 E. Ellipse
 ```
 
-- [ ] A, B, C
+- [x] A, B, C
 - [ ] A, C, E
 - [ ] B, C, E
 - [ ] B, D, E
@@ -313,7 +313,7 @@ E. Ellipse
 
 ![image](images/009.png?raw=png)
 
-- [ ] Choose Fill from the Appearance controls.
+- [x] Choose Fill from the Appearance controls.
 - [ ] Choose Stroke from the Appearance controls.
 - [ ] Choose Background from the Appearance controls.
 - [ ] Choose Shadow from the Appearance controls.
@@ -346,7 +346,7 @@ E. Ellipse
 
 - [ ] Creative Look
 - [ ] Faded Film
-- [ ] Input LUT
+- [x] Input LUT
 - [ ] Intensity
 
 #### Q43. Which Audio Mixer automation mode allows an automation to return to the previous state after any adjustments are made?
@@ -361,13 +361,13 @@ https://www.premiumbeat.com/blog/audio-automation-in-premiere-pro/#:~:text=Read,
 #### Q44. You want Premiere Pro to create a second instance of your media files and add an additional version at a draft resolution. Which option works best in the ingest settings?
 
 - [ ] Transcode
-- [ ] Copy and Create Proxies
+- [x] Copy and Create Proxies
 - [ ] Create Proxies
 - [ ] Copy
 
 #### Q45. If you've imported several time-lapse sequences into your project as image sequences, which option in the Project Manager is most useful for archiving the project?
 
-- [ ] Convert Image Sequences to Clips
+- [x] Convert Image Sequences to Clips
 - [ ] Convert After Effects Compositions to Clips
 - [ ] Include Preview Files
 - [ ] Consolidate and Transcode
@@ -378,12 +378,12 @@ https://www.premiumbeat.com/blog/audio-automation-in-premiere-pro/#:~:text=Read,
 
 - [ ] Show Audio Time Units
 - [ ] Rectified Audio Waveform
-- [ ] Large Audio Waveforms
+- [x] Large Audio Waveforms
 - [ ] Logarithmic Keyframe Scaling
 
 #### Q47. You want to float the History panel independently to position it on another monitor as a floating window. Which option in the panel's submenu should you select?
 
-- [ ] Undock Panel
+- [x] Undock Panel
 - [ ] Undock Frame
 - [ ] Maximize Panel
 - [ ] Maximize Frame
@@ -397,7 +397,7 @@ https://www.premiumbeat.com/blog/audio-automation-in-premiere-pro/#:~:text=Read,
 
 #### Q49. Which statement is true about adaptive audio tracks?
 
-- [ ] Input channel configuration determines channel routing
+- [x] Input channel configuration determines channel routing
 - [ ] Adaptive tracks are unable to be routed to master track outputs
 - [ ] Channel routing is based on master track configuration
 - [ ] Adaptive tracks can only be routed using the Audio Mixer
@@ -413,7 +413,7 @@ https://community.adobe.com/t5/premiere-pro-discussions/what-are-the-best-render
 
 #### Q51. If your project has elements from an AEP file inside, what should you do to ensure that the project is recognized by the Project Manager?
 
-- [ ] Choose the Convert After Effects Compositions to Clips option
+- [x] Choose the Convert After Effects Compositions to Clips option
 - [ ] Usd the Render and Replace option
 - [ ] Switch to After Effects first and choose the Render and Replace option
 - [ ] Choose Consolidate and Transcode
@@ -438,7 +438,7 @@ E. PDF
 - [ ] A, C, E
 - [ ] A, B, C
 - [ ] B, D, E
-- [ ] B, C, D
+- [x] B, C, D
 
 #### Q54. After importing items into your project, where do they appear?
 
@@ -454,7 +454,7 @@ E. PDF
 - [ ] Hue vs. Luma
 - [ ] Hue vs. Hue
 - [ ] Luma vs. Saturation
-- [ ] Hue vs. Saturation
+- [x] Hue vs. Saturation
 
 #### Q56. Which bitrate encoding option yields the best balance of quality to file size, but takes longer to encode?
 
@@ -467,12 +467,12 @@ E. PDF
 
 - [ ] 4
 - [ ] 8
-- [ ] 16
+- [x] 16
 - [ ] 32
 
 #### Q58. Which tool lets you easily reposition clips on the Timeline in respect to adjacent clips?
 
-- [ ] Slide tool
+- [x] Slide tool
 - [ ] Rolling Edit tool
 - [ ] Ripple Edit tool
 - [ ] Slip tool
@@ -480,14 +480,14 @@ E. PDF
 #### Q59. Which memory card structure format is NOT a dedicated viewing option in the Media Browser?
 
 - [ ] Sony DSLR
-- [ ] Canon RAW
+- [x] Canon RAW
 - [ ] XDCAM-HD
 - [ ] Canon XF
 
 #### Q60. What is NOT an option with the Remove Attributes command?
 
 - [ ] Effects
-- [ ] Motion
+- [x] Motion
 - [ ] Speed
 - [ ] Opacity
 
@@ -495,19 +495,19 @@ E. PDF
 
 - [ ] A substitute is automatically chosen based on your preferences.
 - [ ] The font automatically activates as long as there is an internet connection.
-- [ ] A warning appears so you can track down the font.
+- [x] A warning appears so you can track down the font.
 - [ ] Nothing occurs—the graphics appear correct and the font is only needed to edit them.
 
 #### Q62. You have attached a hardware device for adjusting the color of your clips with touch. Where do you configure its preferences?
 
 - [ ] Preferences > Capture
 - [ ] Preferences > Audio Hardware
-- [ ] Preferences > Device Control
+- [x] Preferences > Device Control
 - [ ] Preferences > Control Surface
 
 #### Q63. When importing an XML file, what happens to transitions that Adobe Premiere Pro determines aren't compatible?
 
-- [ ] The transitions are deleted.
+- [x] The transitions are deleted.
 - [ ] The transitions are turned into Dip to Color transitions.
 - [ ] The import fails.
 - [ ] The transitions are turned into cross dissolves.
@@ -518,7 +518,7 @@ E. PDF
 
 - [ ] You would get an End at Cut alignment.
 - [ ] You would get a Start at Cut alignment.
-- [ ] The clip is trimmed and a Center at Cut transition is applied.
+- [x] The clip is trimmed and a Center at Cut transition is applied.
 - [ ] Your would get a one-frame transition.
 
 #### Q65. Which export format supports inclusion of an alpha channel?
@@ -526,11 +526,11 @@ E. PDF
 - [ ] MOV
 - [ ] MP4
 - [ ] MPEG 2 for DVD
-- [ ] MXF OP1a
+- [x] MXF OP1a
 
 #### Q66. Which user interface item identifies the current frame in the Program Monitor?
 
 - [ ] frame ruler
 - [ ] indicator
-- [ ] playhead
+- [x] playhead
 - [ ] navigator
